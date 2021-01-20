@@ -1,0 +1,106 @@
+{
+  "DataCollection": [
+    {
+      "Id": "6F9619FF8B86dB42D00CF4FC964FF",
+      "BookingDate": "Mar 15, 2020, 10:30:00",
+      "Travelers": [
+        {
+          "FirstName": "Jack",
+          "LastName": "Mikelson",
+          "PersonalNumber": 1,
+          "Email": "JackMikelson1999@gmail.com"
+        },
+        {
+          "FirstName": "Николай",
+          "LastName": "Второй",
+          "PersonalNumber": 2,
+          "Email": "nikoalyoliver@gmail.com"
+        },
+        {
+          "FirstName": "Coffee",
+          "LastName": "Lake",
+          "PersonalNumber": 7,
+          "Email": "Corei99900K@gmail.com"
+        }
+      ],
+      "AirSegments": [
+        {
+          "DepartureDate": "Sep 10, 2020, 15:00:00",
+          "ArrivalDate": "Sep 10, 2020, 14:00:00",
+          "DepartureAirportCode": "6F9619FF8B86D011B42D00CF4FC964FF",
+          "ArrivalAirportCode": "6F9619FF8B86D011B42D00CF4FC964FF"
+        }
+      ]
+    },
+    {
+      "Id": "sdfs3232sdxvccr45472",
+      "BookingDate": "Jan 20, 2020, 12:30:00",
+      "Travelers": [
+        {
+          "FirstName": "Jack",
+          "LastName": "Mikelson",
+          "PersonalNumber": 1,
+          "Email": "JackMikelson1999@gmail.com"
+        },
+        {
+          "FirstName": "Николай",
+          "LastName": "Второй",
+          "PersonalNumber": 2,
+          "Email": "nikoalyoliver@gmail.com"
+        },
+        {
+          "FirstName": "Mikel",
+          "LastName": "Jackson",
+          "PersonalNumber": 3,
+          "Email": "dgsssdff123@gmail.com"
+        },
+        {
+          "FirstName": "Speen",
+          "LastName": "Effect",
+          "PersonalNumber": 6,
+          "Email": "epam@epam.com"
+        }
+      ],
+      "AirSegments": [
+        {
+          "DepartureDate": "Apr 10, 2020, 15:00:00",
+          "ArrivalDate": "Apr 10, 2020, 14:00:00",
+          "DepartureAirportCode": "6F9619FF8B86D011B42D00CF4FC964FF",
+          "ArrivalAirportCode": "6F9619FF8B86D011B42D00CF4FC964FF"
+        }
+      ]
+    },
+    {
+      "Id": "6F9619FF8B86D011B42D00CF4FC964FF",
+      "BookingDate": "Okt 1, 2019, 22:30:00",
+      "Travelers": [
+        {
+          "FirstName": "Jack",
+          "LastName": "Mikelson",
+          "PersonalNumber": 1,
+          "Email": "JackMikelson1999@gmail.com"
+        },
+        {
+          "FirstName": "Robert",
+          "LastName": "Pattison",
+          "PersonalNumber": 8,
+          "Email": "RP@yandex.ru"
+        },
+        {
+          "FirstName": "Coffee",
+          "LastName": "Lake",
+          "PersonalNumber": 7,
+          "Email": "Corei99900K@gmail.com"
+        }
+      ],
+      "AirSegments": [
+        {
+          "DepartureDate": "Nov 27, 2020, 07:25:00",
+          "ArrivalDate": "Nov 27, 2020, 09:30:00",
+          "DepartureAirportCode": "23gdfte4",
+          "ArrivalAirportCode": "6F9619FF8B86D011B42D00CF4FC964FF"
+        }
+      ]
+    }
+  ]
+}
